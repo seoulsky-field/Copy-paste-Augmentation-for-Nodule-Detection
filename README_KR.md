@@ -5,7 +5,21 @@
 
 ## 프로젝트 소개
 
-## 실행 방법
+## 환경 설정
+**Step 1.** Anaconda3를 다운 받고 가상 환경을 생성합니다.
+```shell
+conda create -n env_name python=3.8
+```
+**Step 2.** 필요한 라이브러리를 다운받습니다. (pytorch는 [공식 홈페이지](https://pytorch.org/get-started/locally/)를 참조하는 것을 권장합니다.)
+```shell
+conda install --yes --file requirements.txt
+conda install pytorch=1.12.0 cudatoolkit=11.3 -c pytorch
+```
+**Step 3.** [MMDetection library](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md/#Installation)를 다운받습니다.
+```shell
+pip install openmim
+mim install mmcv-full
+```
 
 ## 결과
 
