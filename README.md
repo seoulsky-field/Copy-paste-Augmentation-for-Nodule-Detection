@@ -15,6 +15,6 @@ English | [Korean](https://github.com/seoulsky-field/copy-paste-nodule-detection
 [Dabin Seo](https://github.com/sodabeans) (Department of Radiology, Seoul National University Hospital / Korea University)  
 [Joohwan Lee](https://github.com/JHwan96) (Department of Radiology, Seoul National University Hospital / Soongsil University) 
 
-And thanks for [MMDetection](https://github.com/open-mmlab/mmdetection) to make a good library.
+And thanks to [MMDetection](https://github.com/open-mmlab/mmdetection) to make a good library.
 
 ## References
